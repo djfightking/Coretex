@@ -11,6 +11,11 @@
         "Greetings, how can I help you today?",
         "Good morning, how may I help you?"
     ],
+    "before_greeting": [
+        "Hello",
+        "hi"
+    ],
+    
     "chatbot_info": {
         "what is your name?": "chatbot.",
         "how are you?": "I'm doing well, thank you!",
