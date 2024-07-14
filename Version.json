@@ -1,0 +1,12 @@
+{
+    "current": {
+        "V": "v0.1",
+        "Detail": "current version"
+    },
+    "Old": {
+        "v0": {
+            "V": "v0",
+            "Detail": "old version"
+        }
+    }
+}
